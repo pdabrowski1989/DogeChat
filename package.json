@@ -1,0 +1,20 @@
+{
+  "name": "dogechat",
+  "version": "1.0.0",
+  "description": "chat for dogos",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdabrowski1989/DogeChat.git"
+  },
+  "keywords": [
+    "chat",
+    "doge"
+  ],
+  "author": "Dabrowski Pawel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdabrowski1989/DogeChat/issues"
+  },
+  "homepage": "https://github.com/pdabrowski1989/DogeChat#readme"
+}
